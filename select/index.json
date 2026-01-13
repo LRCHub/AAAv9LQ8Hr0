@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "幻",
+  "base_artist": "My Hair Is Bad",
+  "createdAt": "2026-01-13T22:01:49.616839Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "幻",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/01_幻_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "霧、夢、幻。(瑞雪の荒れ狂う)",
+      "artist": "Hatsune Miku",
+      "has_synced": false,
+      "path": "select/02_霧、夢、幻。(瑞雪の荒れ狂う)_Hatsune_Miku.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "幻",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/03_幻_いきものがかり.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "幻",
+      "artist": "desert sand feels warm at night",
+      "has_synced": false,
+      "path": "select/04_幻_desert_sand_feels_warm_at_night.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "幻 - Maboroshi",
+      "artist": "My Hair Is Bad",
+      "has_synced": true,
+      "path": "select/05_幻_-_Maboroshi_My_Hair_Is_Bad.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "幻",
+      "artist": "My Hair Is Bad",
+      "has_synced": true,
+      "path": "select/06_幻_My_Hair_Is_Bad.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "霧、夢、幻。 (瑞雪の荒れ狂う)",
+      "artist": "Hatsune Miku, Xiaoqian Huang, Junxin Zheng",
+      "has_synced": true,
+      "path": "select/07_霧、夢、幻。_(瑞雪の荒れ狂う)_Hatsune_Miku,_Xiaoqian_Huang,_Junxin_Zheng.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "小手拉大手(OT：Kaze Ni Naru 幻",
+      "artist": "梁静茹",
+      "has_synced": true,
+      "path": "select/08_小手拉大手(OT_Kaze_Ni_Naru_幻_梁静茹.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "幻",
+      "artist": "4s4ki",
+      "has_synced": false,
+      "path": "select/09_幻_4s4ki.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "幻",
+      "artist": "My Hair is Bad",
+      "has_synced": false,
+      "path": "select/pl_01_幻_My_Hair_is_Bad.txt"
+    }
+  ]
+}
